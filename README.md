@@ -3,7 +3,7 @@
 Control and monitor your laboratory power supply directly from macOS.
 
 👉 Join TestFlight:
-https://testflight.apple.com/join/8daqeQAA
+https://testflight.apple.com/join/TG17cYKk
 
 ---
 
