@@ -26,7 +26,7 @@ This app provides a clean and simple macOS alternative — no virtual machines, 
 
 ## 💻 Requirements
 - macOS 10.15 or newer  
-- Compatible USB laboratory power supply  (ex. Korad)
+- Compatible USB laboratory power supply  (eg. Korad)
 
 ---
 
